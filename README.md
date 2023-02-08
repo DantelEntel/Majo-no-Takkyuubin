@@ -1,5 +1,7 @@
-# Majo-no-Takkyuubin
+Çeviri: NF*
 
-1-396 Vuats
-530-830 Fei <mevcut olana eklenmedi>
-397-529 henüz bakılmadı
+Editör: Vuats & Fei
+
+Son Kontrol: 
+
+Şarkı çevirisi yapılmadı, tekrar üzerinden geçilecek.
