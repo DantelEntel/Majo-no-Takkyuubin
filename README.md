@@ -1,7 +1,11 @@
-Çeviri: NF*
+Çeviri: NFLX
 
 Editör: Vuats & Fei
 
-Son Kontrol: 
+Şarkı Çevirisi: Vuats
 
-Şarkı çevirisi yapılmadı, tekrar üzerinden geçilecek.
+Yazı Dizimi: Vuats
+
+Teknik Kontrol: Fei
+
+Redaktör: Kenanke
