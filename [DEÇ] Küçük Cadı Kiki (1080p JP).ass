@@ -23,11 +23,11 @@ Style: edtr,Lexie Readable,74,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.20,0:00:23.12,Default,,0,0,0,,{\i1\3c&H383838&}Sırada Koriko'nun kuzeybatı bölgesi için hava durumu raporu var.{\i0}
+Dialogue: 0,0:00:19.20,0:00:23.12,Default,,0,0,0,,{\i1\3c&H383838&}Sırada, Koriko'nun kuzeybatı bölgesi\N için hava durumu raporu var.{\i0}
 Dialogue: 0,0:00:23.87,0:00:26.42,Default,,0,0,0,,{\i1\3c&H383838&}Yüksek basınç...{\i0}
 Dialogue: 0,0:00:26.67,0:00:29.80,Default,,0,0,0,,{\i1\3c&H383838&}...havaların açılmasını sağlayacak...{\i0}
-Dialogue: 0,0:00:30.88,0:00:35.80,Default,,0,0,0,,{\i1\3c&H383838&}Batıdan gelen rüzgar, yüksek basıncın da yardımıyla bulutları dağıtarak...
-Dialogue: 0,0:00:36.84,0:00:39.64,Default,,0,0,0,,{\i1\3c&H383838&}...bu gece bizi zarif bir dolunayla baş başa bırakacak.{\i0}
+Dialogue: 0,0:00:30.88,0:00:35.80,Default,,0,0,0,,{\i1\3c&H383838&}Batıdan gelen rüzgar, yüksek basıncın da\N yardımıyla bulutları dağıtarak...
+Dialogue: 0,0:00:36.84,0:00:39.64,Default,,0,0,0,,{\i1\3c&H383838&}...bu gece bizi zarif bir dolunayla\N baş başa bırakacak.{\i0}
 Dialogue: 0,0:00:39.93,0:00:44.19,Default,,0,0,0,,{\i1\3c&H383838&}Havalar yarın ve öbür gün de açık.
 Dialogue: 0,0:00:45.44,0:00:48.44,Default,,0,0,0,,{\i1\3c&H383838&}Şimdi haberlere geri dönelim.
 Dialogue: 0,0:00:49.69,0:00:52.03,Default,,0,0,0,,{\i1\3c&H383838&}Koriko Merkez Pazarı'nda yürütülen bir...
@@ -45,24 +45,24 @@ Dialogue: 0,0:01:49.96,0:01:52.17,Default,,0,0,0,,Gittiğim gece mükemmel olmal
 Dialogue: 0,0:01:52.42,0:01:54.63,Default,,0,0,0,,Kiki, bekle!
 Dialogue: 0,0:01:58.89,0:02:01.51,Default,,0,0,0,,Bu gitme meselesi cadılıkla ilgili mi?
 Dialogue: 0,0:02:02.10,0:02:04.35,Default,,0,0,0,,Evet. Eski bir geleneğimizdir.
-Dialogue: 0,0:02:04.97,0:02:08.23,Default,,0,0,0,,Cadılar 13 yaşında eğitim için bir yıllığına evi terk eder.
+Dialogue: 0,0:02:04.97,0:02:08.23,Default,,0,0,0,,Cadılar 13 yaşında eğitim için\N bir yıllığına evi terk eder. {13 yaşına girince desek daha düzgün bir cümle olabilir diye düşünüyorum}
 Dialogue: 0,0:02:08.56,0:02:10.56,Default,,0,0,0,,Zaman su gibi akıp gitmiş...
 Dialogue: 0,0:02:11.06,0:02:13.90,Default,,0,0,0,,Kiki çoktan 13'üne girdi demek...
 Dialogue: 0,0:02:13.98,0:02:17.11,Default,,0,0,0,,Ama bu yaşta evini \Nterk eden kalmadı ki artık.
 Dialogue: 0,0:02:18.07,0:02:22.74,Default,,0,0,0,,Bu şehre geldiğin günü hala hatırlıyorum.
 Dialogue: 0,0:02:23.20,0:02:25.83,Default,,0,0,0,,Süpürgeye binmiş 13 yaşında ufak bir kız çocuğu...
 Dialogue: 0,0:02:25.91,0:02:28.58,Default,,0,0,0,,...parıl parıl gözleriyle gelmişti gökyüzünden.
-Dialogue: 0,0:02:29.08,0:02:33.00,Default,,0,0,0,,"Büyümüş de küçülmüş!" diye düşünmüştüm.
-Dialogue: 0,0:02:34.00,0:02:37.51,Default,,0,0,0,,Ama o zamanki bana kıyasla, Kiki'nin öğrenmesi gereken çok şey var.
+Dialogue: 0,0:02:29.08,0:02:33.00,Default,,0,0,0,,"Büyümüş de küçülmüş!" diye düşünmüştüm. 
+Dialogue: 0,0:02:34.00,0:02:37.51,Default,,0,0,0,,Ama o zamanki bana kıyasla,\N Kiki'nin öğrenmesi gereken çok şey var.
 Dialogue: 0,0:02:38.38,0:02:41.14,Default,,0,0,0,,İksir yapmayı ona henüz öğretemedim bile.
 Dialogue: 0,0:02:41.22,0:02:45.18,Default,,0,0,0,,Zamane çocukları.\NHer şey yavaş yavaş değişiyor işte.
 Dialogue: 0,0:02:45.26,0:02:49.94,Default,,0,0,0,,Ama romatizmama en iyi gelen iksir hala seninki!
 Dialogue: 0,0:02:51.69,0:02:55.27,Default,,0,0,0,,Hep mükemmel bir gecede\Ngitmek istediğimizi söylemiyor muyduk?
 Dialogue: 0,0:02:55.73,0:02:56.82,Default,,0,0,0,,Hiç de bile!
 Dialogue: 0,0:02:56.90,0:03:00.49,Default,,0,0,0,,Bir ay daha bekleyeceğiz demiştik ya.
-Dialogue: 0,0:03:00.91,0:03:04.87,Default,,0,0,0,,Bir ay sonraya bıraktık, ben de bir erkek arkadaş buldum diyelim, o zaman ne yapacağız?
+Dialogue: 0,0:03:00.91,0:03:04.87,Default,,0,0,0,,Bir ay sonraya bıraktık, ben de bir erkek arkadaş\N buldum diyelim, o zaman ne yapacağız? 
 Dialogue: 0,0:03:04.87,0:03:06.83,Default,,0,0,0,,Öyle olursa hiç gidemeyiz.
-Dialogue: 0,0:03:07.33,0:03:10.71,Default,,0,0,0,,Ani karar verdiğinde endişeleniyorum. Çünkü pişman olman çok sürmüyor.
+Dialogue: 0,0:03:07.33,0:03:10.71,Default,,0,0,0,,Ani karar verdiğinde endişeleniyorum.\N Hemen pişman oluyorsun sonra. 
 Dialogue: 0,0:03:10.71,0:03:11.67,Default,,0,0,0,,Öyle mi oluyormuş?
 Dialogue: 0,0:03:13.33,0:03:17.51,Default,,0,0,0,,Bugünün gelmesini\Ndört gözle bekliyordum!
 Dialogue: 0,0:03:22.59,0:03:26.68,Default,,0,0,0,,Baba! Bu gece gidiyorum!
@@ -89,10 +89,10 @@ Dialogue: 0,0:04:33.66,0:04:35.83,Default,,0,0,0,,Baba, radyoyu alabilir miyim?
 Dialogue: 0,0:04:36.17,0:04:39.55,Default,,0,0,0,,Annem alabileceğimi söyledi. Lütfen!
 Dialogue: 0,0:04:40.25,0:04:41.51,Default,,0,0,0,,Pekala radyo artık senin.
 Dialogue: 0,0:04:42.13,0:04:45.01,Default,,0,0,0,,Şuna bak, küçük cadı ne kadar da büyümüş.
-Dialogue: 0,0:04:53.10,0:04:54.89,Default,,0,0,0,,Annenin küçüklüğüne çok benziyorsun. {Hık demiş burnundan düşmüşsün? Cadılık hakkında çok bilgili olmadığı için bu uymayabilir ama daha doğal bir ifade}{Bana annenin gençliğini anımsatıyorsuna yakın bir ifade güzel gidebilir}{check}
+Dialogue: 0,0:04:53.10,0:04:54.89,Default,,0,0,0,,Annenin gençliğini anımsatıyorsun. {en doğalı bu olur bence}
 Dialogue: 0,0:04:55.65,0:04:59.65,Default,,0,0,0,,Baba, eskiden olduğu gibi\Nbeni kucağına alır mısın?
 Dialogue: 0,0:05:00.23,0:05:01.19,Default,,0,0,0,,Gel bakalım.
-Dialogue: 0,0:05:13.70,0:05:16.17,Default,,0,0,0,,Hangi ara bu kadar büyüdün sen... {check}{çirkin oldu gibi}
+Dialogue: 0,0:05:13.70,0:05:16.17,Default,,0,0,0,,Ne ara kocaman kız oldun sen...
 Dialogue: 0,0:05:17.63,0:05:19.75,Default,,0,0,0,,İşler ters giderse dön, tamam mı?
 Dialogue: 0,0:05:19.84,0:05:22.92,Default,,0,0,0,,Başarısız mı olayım? İstemem, kalsın!
 Dialogue: 0,0:05:26.43,0:05:28.05,Default,,0,0,0,,Umarım güzel bir yer bulursun. {"I hope you find a good town" -> "Zamanın geldiğine emin misin?" - Netflix moment.}
@@ -188,7 +188,7 @@ Dialogue: 0,0:16:37.93,0:16:39.39,Default,,0,0,0,,Burada yaşamak istiyoruz.
 Dialogue: 0,0:16:44.19,0:16:48.36,Default,,0,0,0,,Şehriniz inanılmaz.\NHarika bir saat kuleniz var.
 Dialogue: 0,0:16:50.03,0:16:52.61,Default,,0,0,0,,Beğenmene çok sevindim canım. Hoşça kal!
 Dialogue: 0,0:17:01.04,0:17:03.96,Default,,0,0,0,,Evlat, yola öyle fırlanır mı?
-Dialogue: 0,0:17:04.46,0:17:06.63,Default,,0,0,0,,Az kalsın zincirleme bir kazaya sebep olacaktın!
+Dialogue: 0,0:17:04.46,0:17:06.63,Default,,0,0,0,,Az kalsın zincirleme kazaya sebep olacaktın!
 Dialogue: 0,0:17:06.63,0:17:08.96,Default,,0,0,0,,Şehirde sağa sola uçmak tehlikeli ve yasak.
 Dialogue: 0,0:17:09.50,0:17:12.26,Default,,0,0,0,,İyi de ben bir cadıyım efendim. Biz uçarız.
 Dialogue: 0,0:17:12.34,0:17:15.01,Default,,0,0,0,,Cadılar trafik kurallarından muaf değil.
@@ -200,14 +200,14 @@ Dialogue: 0,0:17:52.00,0:17:53.01,Default,,0,0,0,,Kiki.
 Dialogue: 0,0:17:56.80,0:17:59.30,Default,,0,0,0,,Baksana, işe yaradı değil mi?
 Dialogue: 0,0:17:59.72,0:18:01.89,Default,,0,0,0,,Hırsız diye bağıran bendim!
 Dialogue: 0,0:18:02.18,0:18:04.89,Default,,0,0,0,,Sen gerçek bir cadısın! \NAz evvel seni uçarken gördüm!
-Dialogue: 0,0:18:05.23,0:18:09.77,Default,,0,0,0,,Ciddi ciddi süpürgeye falan biniyorsun!\NHey, süpürgene birazcık yakından bakabilir miyim?
+Dialogue: 0,0:18:05.23,0:18:09.77,Default,,0,0,0,,Ciddi ciddi süpürgeye falan biniyorsun!\NSüpürgene yakından bakabilir miyim?
 Dialogue: 0,0:18:09.86,0:18:11.11,Default,,0,0,0,,Tombo!
 Dialogue: 0,0:18:12.44,0:18:14.23,Default,,0,0,0,,Yavşaklık için saat çok erken değil mi!? {mahalle çocukları}{check}
 Dialogue: 0,0:18:14.86,0:18:16.11,Default,,0,0,0,,Boş yapmayın!
 Dialogue: 0,0:18:21.12,0:18:24.04,Default,,0,0,0,,Hadi ama, sadece birazcık. Ne olacak sanki?
 Dialogue: 0,0:18:24.70,0:18:28.62,Default,,0,0,0,,Yardım ettiğin için sağ ol.\NAma senden yardım istemedim.
-Dialogue: 0,0:18:28.71,0:18:30.50,Default,,0,0,0,,Ve kendini doğru dürüst tanıtmadan...
-Dialogue: 0,0:18:30.58,0:18:32.63,Default,,0,0,0,,...bir kızla konuşmaya başlaman çok kaba.
+Dialogue: 0,0:18:28.71,0:18:30.50,Default,,0,0,0,,Kendini doğru dürüst tanıtmadan...
+Dialogue: 0,0:18:30.58,0:18:32.63,Default,,0,0,0,,...bir kızla konuşmaya başlaman da çok kaba.
 Dialogue: 0,0:18:43.64,0:18:46.60,Default,,0,0,0,,İşte tam bir cadı tepkisi.\NBüyükannem gibisin.
 Dialogue: 0,0:18:46.68,0:18:47.89,Default,,0,0,0,,Takip etmeyi bırak!
 Dialogue: 0,0:18:59.11,0:19:00.32,Default,,0,0,0,,Muhteşem!
@@ -261,7 +261,7 @@ Dialogue: 0,0:23:59.45,0:24:02.00,Default,,0,0,0,,Tavan arasında boş bir odam�
 Dialogue: 0,0:24:02.08,0:24:03.42,Default,,0,0,0,,Gerçekten mi hanımefendi? {Madam da kullanılabilir}{check}
 Dialogue: 0,0:24:05.59,0:24:09.51,Default,,0,0,0,,Hanımefendi demene gerek yok,\Nburada bana Fırıncı Osono derler.
 Dialogue: 0,0:24:10.72,0:24:14.01,Default,,0,0,0,,Ben de Kiki. Bu da kara kedim Jiji.
-Dialogue: 0,0:24:28.86,0:24:31.86,Default,,0,0,0,,-Biraz dağınık ama, istediğin gibi düzenleyebilirsin.\N-Teşekkürler.
+Dialogue: 0,0:24:28.86,0:24:31.86,Default,,0,0,0,,-Biraz dağınık ama istediğin gibi düzenleyebilirsin.\N-Teşekkürler.
 Dialogue: 0,0:24:31.95,0:24:35.37,Default,,0,0,0,,Banyo ve lavabo aşağıda.\NBir şey olursa çekinmeden seslen.
 Dialogue: 0,0:24:35.74,0:24:36.70,Default,,0,0,0,,Sağ olun!
 Dialogue: 0,0:24:41.91,0:24:43.37,Default,,0,0,0,,Burası dökülüyor.
@@ -284,7 +284,7 @@ Dialogue: 0,0:28:48.62,0:28:51.50,Default,,0,0,0,,Tek bir yeteneğim var, o da u
 Dialogue: 0,0:28:51.75,0:28:53.96,Default,,0,0,0,,Dağıtım servisi iyi olur diye düşündüm.
 Dialogue: 0,0:28:54.37,0:28:55.67,Default,,0,0,0,,Kulağa hoş geliyor.
 Dialogue: 0,0:28:55.75,0:28:58.04,Default,,0,0,0,,Kiki'nin Uçan Dağıtım Servisi!
-Dialogue: 0,0:28:58.46,0:29:01.46,Default,,0,0,0,,Ve burada kalacağına göre\No odayı kullanabilirsin.
+Dialogue: 0,0:28:58.46,0:29:01.46,Default,,0,0,0,,Burada kalacağına göre de\No odayı kullanabilirsin.
 Dialogue: 0,0:29:01.55,0:29:02.59,Default,,0,0,0,,Gerçekten mi?
 Dialogue: 0,0:29:03.47,0:29:04.88,Default,,0,0,0,,Bu harika!
 Dialogue: 0,0:29:05.89,0:29:08.93,Default,,0,0,0,,-Yukarıya bir telefon istiyorum.\N-Telefona para lazım.
@@ -318,7 +318,7 @@ Dialogue: 0,0:32:21.25,0:32:22.46,Default,,0,0,0,,Müthiş zamanlama Kiki.
 Dialogue: 0,0:32:22.54,0:32:26.38,Default,,0,0,0,,Bir hanımefendi\Nbir paket götürmeni istiyor.
 Dialogue: 0,0:32:26.46,0:32:28.55,Default,,0,0,0,,Öyle mi? Hemen geleceğim!
 Dialogue: 0,0:32:33.30,0:32:34.30,Default,,0,0,0,,Harita.
-Dialogue: 0,0:32:46.61,0:32:51.07,Default,,0,0,0,,Bu hanım müşterimiz.\NSenin dağıtım servisini konuşuyorduk.
+Dialogue: 0,0:32:46.61,0:32:51.07,Default,,0,0,0,,Bu hanım, müşterimiz.\NSenin dağıtım servisini konuşuyorduk.
 Dialogue: 0,0:32:51.36,0:32:52.99,Default,,0,0,0,,Ne tatlı bir cadı.
 Dialogue: 0,0:32:53.07,0:32:54.20,Default,,0,0,0,,Adım Kiki efendim.
 Dialogue: 0,0:32:54.91,0:32:56.70,Default,,0,0,0,,Götürmeni istediğim şey bu.
@@ -371,7 +371,7 @@ Dialogue: 0,0:38:16.60,0:38:18.94,Default,,0,0,0,,O uzun zaman önceydi, tamam m
 Dialogue: 0,0:38:20.11,0:38:22.90,Default,,0,0,0,,Hava kararınca\Normana girip oyuncağı alabiliriz.
 Dialogue: 0,0:38:23.82,0:38:25.74,Default,,0,0,0,,Ama o zaman da teslimat gecikir.
 Dialogue: 0,0:38:26.65,0:38:28.70,Default,,0,0,0,,Jiji, bu son çaremiz.
-Dialogue: 0,0:38:29.16,0:38:30.70,Default,,0,0,0,,Kesin işe yaramayacak!
+Dialogue: 0,0:38:29.16,0:38:30.70,Default,,0,0,0,,İşe yaramayacağı belli!
 Dialogue: 0,0:38:31.20,0:38:34.04,Default,,0,0,0,,Merak etme.\NOyuncağı bulur bulmaz seni kurtaracağım.
 Dialogue: 0,0:38:37.92,0:38:38.79,Default,,0,0,0,,Bu ev mi?
 Dialogue: 0,0:38:38.87,0:38:40.54,Default,,0,0,0,,Evet, hiç kımıldama.
@@ -447,7 +447,7 @@ Dialogue: 0,0:45:20.23,0:45:22.32,Default,,0,0,0,,Oyuncağı eve götürebilirmi
 Dialogue: 0,0:45:29.91,0:45:31.41,Default,,0,0,0,,Bize bu iyiliği yapar mısın?
 Dialogue: 0,0:46:02.03,0:46:03.53,Default,,0,1080,0,,İyi misin bakayım?
 Dialogue: 0,0:46:04.03,0:46:05.32,Default,,0,1080,0,,Karnım aç.
-Dialogue: 0,0:46:05.40,0:46:10.08,Default,,0,1080,0,,{\q2}Değil mi? \NUykumuz da geldi.\NAma ilk günümüz çok güzel geçti.
+Dialogue: 0,0:46:05.40,0:46:10.08,Default,,0,1080,0,,{\q2}Değil mi? \NUykumuz da geldi.\NAma ilk günümüz çok güzel geçti. {kedy görünsün diyeymiş} {check}
 Dialogue: 0,0:46:10.16,0:46:15.08,Default,,0,1080,0,,{\q2}Bu arada oyuncağı \Nbulan ressam benim \Nresmimi çizmek istiyor.
 Dialogue: 0,0:46:15.16,0:46:16.54,Default,,0,1080,0,,-Çıplak mı?\N-Şapşal!
 Dialogue: 0,0:47:51.97,0:47:53.68,Default,,0,0,0,,Çok sıkıcı.
@@ -466,7 +466,7 @@ Dialogue: 0,0:48:44.31,0:48:47.44,Default,,0,0,0,,Kedileri çok uyuz, o yüzden 
 Dialogue: 0,0:48:51.19,0:48:53.32,Default,,0,0,0,,Alo, Gutiyokipan Fırını.
 Dialogue: 0,0:48:54.07,0:48:55.53,Default,,0,0,0,,Evet, elbette hanımefendi.
 Dialogue: 0,0:48:56.03,0:48:57.99,Default,,0,0,0,,Jiji, bir müşterimiz var.
-Dialogue: 0,0:48:59.16,0:49:01.96,Default,,0,0,0,,Saat 4:30 uygun.\NAnlaşıldı.
+Dialogue: 0,0:48:59.16,0:49:01.96,Default,,0,0,0,,Saat 16.30 uygun.\NAnlaşıldı.
 Dialogue: 0,0:49:02.50,0:49:07.46,Default,,0,0,0,,Adresinizi alabilir miyim? \NTamam, anladım mavi çatılı ev.
 Dialogue: 0,0:49:08.09,0:49:12.01,Default,,0,0,0,,Çok teşekkürler. \NBana güvenebilirsiniz.
 Dialogue: 0,0:49:15.55,0:49:16.55,Default,,0,0,0,,Selam.
@@ -494,7 +494,7 @@ Dialogue: 0,0:50:38.26,0:50:41.72,Default,,0,0,0,,-Kutunun üzerinde yazıyor ol
 Dialogue: 0,0:50:45.73,0:50:50.15,Default,,0,0,0,,Bayan Osono, bir sorunum var.\NTombo'nun kulübünde partiye davetliyim.
 Dialogue: 0,0:50:50.23,0:50:52.15,Default,,0,0,0,,Ne güzel işte, git ve eğlen.
 Dialogue: 0,0:50:52.69,0:50:54.65,Default,,0,0,0,,Ama yanımda sadece bu elbise var!
-Dialogue: 0,0:50:55.11,0:50:59.41,Default,,0,0,0,,Bu muydu sorun dediğin? \NBence güzel görünüyorsun.
+Dialogue: 0,0:50:55.11,0:50:59.41,Default,,0,0,0,,Sorun ettiğin şey bu muydu? \NBence güzel görünüyorsun.
 Dialogue: 0,0:50:59.49,0:51:01.41,Default,,0,0,0,,Siyah elbise kadına yakışır.
 Dialogue: 0,0:51:01.99,0:51:03.70,Default,,0,0,0,,-Gerçekten mi?\N-İş nasıl gidiyor?
 Dialogue: 0,0:51:04.04,0:51:07.66,Default,,0,0,0,,Neredeyse unutuyordum!\N Saat ne ara dört olmuş! Gitmeliyim!
@@ -504,7 +504,7 @@ Dialogue: 0,0:51:29.69,0:51:33.19,Default,,0,0,0,,Ona bu kadar kızgınsan\Npart
 Dialogue: 0,0:51:33.27,0:51:36.90,Default,,0,0,0,,Sessiz ol, paket çok ağır olduğu \Niçin konsantre olmalıyım!
 Dialogue: 0,0:51:56.38,0:51:57.96,Default,,0,0,0,,Teşekkür ederim, hoşça kalın.
 Dialogue: 0,0:51:58.72,0:51:59.72,Default,,0,0,0,,Acele etmeliyiz!
-Dialogue: 0,0:52:04.85,0:52:07.10,Default,,0,0,0,,4:30'a kadar yetişmemiz lazım.
+Dialogue: 0,0:52:04.85,0:52:07.10,Default,,0,0,0,,16.30'a kadar yetişmemiz lazım.
 Dialogue: 0,0:52:21.61,0:52:22.66,Default,,0,0,0,,İşte mavi çatı.
 Dialogue: 0,0:52:42.01,0:52:46.14,Default,,0,0,0,,Merhaba, adım Kiki.\NDağıtım servisi istemişsiniz, geldim.
 Dialogue: 0,0:52:46.85,0:52:48.56,Default,,0,0,0,,Evet, gel canım.
@@ -521,7 +521,7 @@ Dialogue: 0,0:53:32.14,0:53:34.06,Default,,0,0,0,,Ben Cadı Kiki, efendim.
 Dialogue: 0,0:53:35.65,0:53:38.69,Default,,0,0,0,,Nasıl da tatlı bir cadısın.
 Dialogue: 0,0:53:39.02,0:53:44.24,Default,,0,0,0,,Üzgünüm, götürmeni istediğimiz kiş hâlâ hazır değil. {check}
 Dialogue: 0,0:53:46.53,0:53:51.08,Default,,0,0,0,,Nedense bir türlü ısınmıyor.\NTuhaf değil mi?
-Dialogue: 0,0:53:54.08,0:53:57.50,Default,,0,0,0,,Benim gibi yaşlı oldukları için çalışmıyorlar.
+Dialogue: 0,0:53:54.08,0:53:57.50,Default,,0,0,0,,Benim gibi miadını doldurduklarında çalışmıyorlar.
 Dialogue: 0,0:53:57.92,0:54:01.80,Default,,0,0,0,,Torunumun doğum günü için\Nbu kişi sıcak sıcak götürmeni istiyordum.
 Dialogue: 0,0:54:02.51,0:54:06.51,Default,,0,0,0,,En sevdiğim tarif.\NRinga balıklı ve bal kabaklı kiş.
 Dialogue: 0,0:54:07.68,0:54:12.06,Default,,0,0,0,,Ama sanırım yenilgiyi kabul etmem lazım.\NArayıp özür dilemeliyim.
@@ -532,7 +532,7 @@ Dialogue: 0,0:54:23.19,0:54:24.07,Default,,0,0,0,,Tabii ki.
 Dialogue: 0,0:54:24.44,0:54:27.11,Default,,0,0,0,,Konuştuğumuz tutarın hepsini öde.
 Dialogue: 0,0:54:27.20,0:54:28.16,Default,,0,0,0,,Ama efendim!
 Dialogue: 0,0:54:28.24,0:54:31.87,Default,,0,0,0,,Lütfen kabul et, kişin hazır olmaması\Nsenin suçun değil.
-Dialogue: 0,0:54:34.75,0:54:37.58,Default,,0,0,0,,Hâlâ biraz zamanım kaldığına göre\Nsize yardım edebilirim.
+Dialogue: 0,0:54:34.75,0:54:37.58,Default,,0,0,0,,Hala biraz zamanım kaldığına göre\Nsize yardım edebilirim.
 Dialogue: 0,0:54:37.67,0:54:39.17,Default,,0,0,0,,Şu fırın çalışıyor mu?
 Dialogue: 0,0:54:39.42,0:54:41.88,Default,,0,0,0,,Ne? O mu?
 Dialogue: 0,0:54:43.88,0:54:47.68,Default,,0,0,0,,Eskiden onunla çok güzel ekmekler yapardım\Nama yıllardır kullanmadım.
@@ -758,7 +758,7 @@ Dialogue: 0,1:19:43.17,1:19:46.97,Default,,0,0,0,,-Lütfen artık beni arama.\N{
 Dialogue: 0,1:19:47.05,1:19:49.51,Default,,0,0,0,,{\i1}Pilot seninle tanışmak istiyormuş.{\i0}
 Dialogue: 0,1:19:50.51,1:19:51.97,Default,,0,0,0,,Alo? Alo!
 Dialogue: 0,1:19:55.77,1:19:57.85,Default,,0,0,0,,Neyin var Kiki? Pek iyi görünmüyorsun.
-Dialogue: 0,1:19:59.10,1:20:01.31,Default,,0,0,0,,Hâlâ eğitimimi tamamlamadım.
+Dialogue: 0,1:19:59.10,1:20:01.31,Default,,0,0,0,,Hala eğitimimi tamamlamadım.
 Dialogue: 0,1:20:01.40,1:20:05.40,Default,,0,0,0,,Gücümü kaybedersem her şeyi kaybederim.
 Dialogue: 0,1:20:34.35,1:20:35.35,Default,,0,0,0,,Kiki!
 Dialogue: 0,1:20:37.22,1:20:38.18,Default,,0,0,0,,Merhaba.
@@ -812,10 +812,10 @@ Dialogue: 0,1:26:12.18,1:26:14.44,Default,,0,0,0,,Gerçekten mi? Sonra ne oluyor
 Dialogue: 0,1:26:14.73,1:26:16.27,Default,,0,0,0,,Buraya bakmamalısın.
 Dialogue: 0,1:26:19.69,1:26:22.78,Default,,0,0,0,,Dünyanın en normal \Nşeyiymiş gibi uçabiliyordum.
 Dialogue: 0,1:26:23.19,1:26:26.74,Default,,0,0,0,,Ama şimdi nasıl yaptığımı bile hatırlamıyorum.
-Dialogue: 0,1:26:29.33,1:26:31.79,Default,,0,0,0,,Böyle durumlarda, elimden sadece çabalamak gelir.
+Dialogue: 0,1:26:29.33,1:26:31.79,Default,,0,0,0,,Böyle durumlarda, elimden\N sadece çabalamak gelir.
 Dialogue: 0,1:26:31.79,1:26:33.87,Default,,0,0,0,,"Çizersen düzelecek!" diye diye motive olurum.
 Dialogue: 0,1:26:34.37,1:26:36.29,Default,,0,0,0,,Ama ya hiç beceremiyorsam...
-Dialogue: 0,1:26:36.96,1:26:38.13,Default,,0,0,0,,Denemeyi bırakım.{Check}
+Dialogue: 0,1:26:36.96,1:26:38.13,Default,,0,0,0,,Denemeyi bırakırım.{Check}
 Dialogue: 0,1:26:39.04,1:26:42.51,Default,,0,0,0,,Yürüyüş yapar, manzarayı izler,\Nöğle uykularına yatarım.
 Dialogue: 0,1:26:43.76,1:26:45.68,Default,,0,0,0,,Bir gün bir bakmışsın, yeniden uçuyorsun.
 Dialogue: 0,1:26:46.34,1:26:47.18,Default,,0,0,0,,Gerçekten mi?
@@ -824,12 +824,12 @@ Dialogue: 0,1:27:11.53,1:27:15.83,Default,,0,0,0,,Senin yaşındayken\Nressam ol
 Dialogue: 0,1:27:16.37,1:27:19.58,Default,,0,0,0,,Resim yapmayı çok severdim.\NRüyamda bile resim yapardım.
 Dialogue: 0,1:27:20.13,1:27:22.88,Default,,0,0,0,,Bir gün durup dururken\Nresim yeteneğim gitti.
 Dialogue: 0,1:27:24.17,1:27:26.01,Default,,0,0,0,,Resme devam ettim ama güzel olmadı.
-Dialogue: 0,1:27:28.13,1:27:31.47,Default,,0,0,0,,Diğer ressamları taklit ettiğimin farkına vardım.
+Dialogue: 0,1:27:28.13,1:27:31.47,Default,,0,0,0,,Diğer ressamları taklit\N ettiğimin farkına vardım.
 Dialogue: 0,1:27:32.18,1:27:33.93,Default,,0,0,0,,Bir yerlerde gördüğüm resimlerdi hep.
 Dialogue: 0,1:27:35.18,1:27:37.39,Default,,0,0,0,,Kendi resimlerimi çizeceğime söz verdim.
 Dialogue: 0,1:27:38.73,1:27:39.77,Default,,0,0,0,,Zor olmuş olmalı.
 Dialogue: 0,1:27:41.56,1:27:44.90,Default,,0,0,0,,Şu anda da pek fark yok ama ondan sonra...
-Dialogue: 0,1:27:44.94,1:27:49.86,Default,,0,0,0,,...resmin benim için anlamını az da olsa anlamıştım.
+Dialogue: 0,1:27:44.94,1:27:49.86,Default,,0,0,0,,...resmin benim için anlamını\N az da olsa anlamıştım.
 Dialogue: 0,1:27:50.87,1:27:55.70,Default,,0,0,0,,-Uçmak için büyü kullanmıyorsunuz, değil mi?\N-Evet. ruhumdan güç alıyorum.
 Dialogue: 0,1:27:56.66,1:27:59.87,Default,,0,0,0,,Cadı güçleri demek.\NGüzelmiş, hoşuma gitti!
 Dialogue: 0,1:28:00.79,1:28:04.34,Default,,0,0,0,,Aynı ruh bana resim yaptırıyor,\Narkadaşına da kek!
@@ -851,7 +851,7 @@ Dialogue: 0,1:28:54.47,1:28:55.43,Default,,0,0,0,,Önemli değil.
 Dialogue: 0,1:28:59.06,1:29:00.68,Default,,0,0,0,,Ziyaretine gelebilir miyim?
 Dialogue: 0,1:29:00.77,1:29:05.23,Default,,0,0,0,,Elbette, bütün yaz buradayım.\NBazen ben de sana gelirim.
 Dialogue: 0,1:29:11.57,1:29:15.24,Default,,0,0,0,,{\i1}Özgürlüğün Ruhu sağanak yağmur \Nsebebiyle zorunlu iniş gerçekleştirmişti.{\i0}
-Dialogue: 0,1:29:15.32,1:29:20.58,Default,,0,0,0,,{\i1}Bakım sonrası Güney Kutbu'na devam ederken kalkışını canlı yayınlayacağız.{\i0}
+Dialogue: 0,1:29:15.32,1:29:20.58,Default,,0,0,0,,{\i1}Bakım sonrası Güney Kutbu'na devam ederken\N kalkışını canlı yayınlayacağız.{\i0}
 Dialogue: 0,1:29:21.04,1:29:23.29,Default,,0,0,0,,Alo? Gutiyokipan Fırını.
 Dialogue: 0,1:29:23.87,1:29:25.13,Default,,0,0,0,,Kiki nasılsın?
 Dialogue: 0,1:29:26.79,1:29:29.13,Default,,0,0,0,,Kendine zaman ayırıp dinlendiğin iyi oldu.
@@ -935,7 +935,7 @@ Dialogue: 0,1:36:35.56,1:36:36.60,Default,,0,0,0,,Şunu tut!
 Dialogue: 0,1:36:53.78,1:36:54.78,Default,,0,0,0,,Daha hızlı uç!
 Dialogue: 0,1:36:55.87,1:36:57.29,Default,,0,0,0,,Daha hızlı!
 Dialogue: 0,1:37:11.63,1:37:14.34,Default,,0,0,0,,Sızan helyum gazının sesini duyuyoruz.
-Dialogue: 0,1:37:14.43,1:37:17.60,Default,,0,0,0,,Çocuğun durumunu bulunduğumuz noktadan tam olarak...
+Dialogue: 0,1:37:14.43,1:37:17.60,Default,,0,0,0,,Çocuğun durumunu bulunduğumuz\N noktadan tam olarak...
 Dialogue: 0,1:37:22.60,1:37:25.52,Default,,0,0,0,,Çok fazla gaz kaçağı var,\N zeplin düşüyor!
 Dialogue: 0,1:37:36.78,1:37:39.87,Default,,0,0,0,,-Başka bir binanın üstüne düştü!\N-Şuraya bakın!
 Dialogue: 0,1:37:39.95,1:37:41.71,Default,,0,0,0,,Bu bir mucize!
@@ -944,7 +944,7 @@ Dialogue: 0,1:37:44.63,1:37:47.46,Default,,0,0,0,,Ama şimdi onu oradan kim kurt
 Dialogue: 0,1:37:47.54,1:37:49.67,Default,,0,0,0,,Zavallı çocuk canı pahasına ipe asılıyor.
 Dialogue: 0,1:37:50.63,1:37:51.67,Default,,0,0,0,,Neler oluyor?
 Dialogue: 0,1:37:52.30,1:37:56.47,Default,,0,0,0,,Kuş mu? Hayır! Küçük bir kız! \NKüçük bir cadı süpürgeyle uçuyor!
-Dialogue: 0,1:37:56.80,1:37:59.47,Default,,0,0,0,,{\i1}Gökte gerçekten süpürgeyle süzülen bir cadı var!{\i0}
+Dialogue: 0,1:37:56.80,1:37:59.47,Default,,0,0,0,,{\i1}Gökte gerçekten süpürgeyle\N süzülen bir cadı var!{\i0}
 Dialogue: 0,1:38:00.18,1:38:01.48,Default,,0,0,0,,-Haydi kızım!\N-Bak, Kiki!
 Dialogue: 0,1:38:01.81,1:38:03.19,Default,,0,0,0,,Tekrardan uçabiliyor!
 Dialogue: 0,1:38:03.60,1:38:04.81,Default,,0,0,0,,Kurtar onu!
@@ -970,8 +970,8 @@ Dialogue: 0,1:42:23.40,1:42:25.41,Default,,0,0,0,,Hayatım! Kiki'den mektup var!
 Dialogue: 0,1:42:29.20,1:42:31.75,Default,,0,0,0,,"Sevgili anneciğim ve babacığım,\Nnasılsınız?
 Dialogue: 0,1:42:31.83,1:42:33.83,Default,,0,0,0,,Jiji ve ben çok iyiyiz."
 Dialogue: 0,1:42:34.50,1:42:36.79,Default,,0,0,0,,{\i1}İşlerimi yoluna koydum sayılır.{\i0}
-Dialogue: 0,1:42:36.88,1:42:38.42,Default,,0,0,0,,{\i1}Özgüvenim de giderek artıyor.{\i0}
-Dialogue: 0,1:42:39.38,1:42:43.42,Default,,0,0,0,,{\i1}Bazen huysuzluğum tutsa da, bu şehri seviyorum.
+Dialogue: 0,1:42:36.88,1:42:38.42,Default,,0,0,0,,{\i1}Öz güvenim de giderek artıyor.{\i0}
+Dialogue: 0,1:42:39.38,1:42:43.42,Default,,0,0,0,,{\i1}Bazen huysuzluğum tutsa da bu şehri seviyorum.
 Dialogue: 0,1:42:50.43,1:42:57.60,ts,,0,0,0,,{\fad(550,200)\blur0.8\b1\fnLexie Readable\shad0\bord0\pos(945,604.86)\c&HF5F4F5&}SON
 Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{giriş}
 Dialogue: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&H743E25&\1a&HFA&\blur0.5\t(0,315,\c&HC89A7E&\1a&H10&)}Küçük Cadı Kiki
@@ -1972,16 +1972,3 @@ Dialogue: 1,0:33:10.05,0:33:10.09,ts,,0,0,0,,{=6=9}{\pos(961.93,807.65)\fscx78.8
 Dialogue: 1,0:33:10.09,0:33:10.13,ts,,0,0,0,,{=6=9}{\pos(961.82,807.69)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.24,717.45,966.22,863.5)}Sevgili Keto'ma{\i0}
 Dialogue: 1,0:33:10.13,0:33:10.17,ts,,0,0,0,,{=6=9}{\pos(962.52,807.43)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.94,717.19,966.92,863.24)}Sevgili Keto'ma{\i0}
 Dialogue: 1,0:33:10.17,0:33:10.21,ts,,0,0,0,,{=6=9}{\pos(962.25,808.26)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.67,718.02,966.65,864.07)}Sevgili Keto'ma{\i0}
-
-[Aegisub Extradata]
-Data: 6,_aegi_perspective_ambient_plane,e677.64;518.78#7C1372.32;617.24#7C1250.87;1050.47#7C559.95;909.38
-Data: 9,a-mo,e{"originalText"#3A"{\\blur0.5\\fnVladimir Script\\i1\\c&H272834&\\3c&H7B8792&\\fax-0.183226\\fscx78.80\\fscy119.63\\frz-9.3828\\frx1.2174\\fry-2.3981\\\\iclip(934.83#2C717.58#2C965.81#2C863.63)\\pos(961.41#2C807.82)}Sevgili Ketoo'ma{\\i0}"#2C"uuid"#3A"1fe4dad3-91df-4d7f-9759-43fac142eb8d"}
-Data: 12,a-mo,e{"originalText"#3A"{\\c&H151516&\\3c&H000000&\\bord0.6\\fs36\\fnFOT-OedKtr Std E\\fsp1.5\\pos(911.76#2C987.48)}Da#C4#9F#C4#B1t#C4#B1m Servisi"#2C"uuid"#3A"d8321c00-0b57-4eb4-9984-08d18ec3a1b6"}
-Data: 13,a-mo,e{"originalText"#3A"{\\c&H151516&\\3c&H000000&\\bord0.6\\fs36\\fnFOT-OedKtr Std E\\fsp1.5\\pos(780.19#2C959.2)}Kiki'nin "#2C"uuid"#3A"efee3d85-5ff3-41a4-919d-2ab77abf785b"}
-Data: 14,a-mo,e{"originalText"#3A"{\\blur0.6\\fscx58.09\\fscy58.09\\frz0\\alpha&H00&\\c&H151516&\\3c&H000000&\\bord0\\fs36\\fnFOT-OedKtr Std E\\fsp1.5\\pos(931.9#2C799.02)}Da#C4#9F#C4#B1t#C4#B1m Servisi"#2C"uuid"#3A"52972821-6b89-4cc5-88fa-d9229ef5c3eb"}
-Data: 15,a-mo,e{"originalText"#3A"{\\blur0.6\\fscx58.09\\fscy58.09\\frz0\\alpha&H00&\\c&H151516&\\3c&H000000&\\bord0\\fs36\\fnFOT-OedKtr Std E\\fsp1.5\\pos(855.47#2C782.59)}Kiki'nin"#2C"uuid"#3A"a03136bf-c665-4a76-9337-6ef6a92f0ccf"}
-Data: 16,a-mo,e{"originalText"#3A"{\\blur0.6\\fscx99.97\\fscy99.97\\frz0\\alpha&H00&\\c&H2C3B59&\\3c&H000000&\\bord0\\fs32\\fnFOT-OedKtr Std E\\fsp1.5\\pos(1497.66#2C903.99)}Da#C4#9F#C4#B1t#C4#B1m Servisi"#2C"uuid"#3A"baac0f02-f043-46a1-8363-0414c8c1c38f"}
-Data: 17,a-mo,e{"originalText"#3A"{\\blur0.6\\fscx99.97\\fscy99.97\\frz0\\alpha&H00&\\c&H2C3B59&\\3c&H000000&\\bord0\\fs32\\fnFOT-OedKtr Std E\\fsp1.5\\pos(1377.66#2C880)}Kiki'nin"#2C"uuid"#3A"2a41e45e-1daf-4bde-a105-10433ea11dc5"}
-Data: 29,_aegi_perspective_ambient_plane,e744.07;219.12#7C1492.49;428.64#7C1305.29;810.96#7C504.07;554.35
-Data: 30,a-mo,e{"uuid"#3A"c116d484-03d8-4258-8863-b8c0a2c57061"#2C"originalText"#3A"{\\blur0.7\\fnFreestyle Script\\c&H1A1823&\\fax-0.186967\\fscx103.28\\fscy83.62\\frz-17.0572\\frx4.5225\\fry-0.3157\\pos(1030.66#2C579.23)}Cad#C4#B1 Han#C4#B1m"}
-Data: 31,a-mo,e{"uuid"#3A"116e7674-2dca-4121-89c1-b7646f65a211"#2C"originalText"#3A"{\\alpha&H00&\\blur0.7\\fnFreestyle Script\\c&H1A1823&\\fax-0.186967\\fscx103.28\\fscy83.62\\frz-17.06\\frx4.5225\\fry-0.3157\\pos(1004.19#2C620.04)}Cad#C4#B1 Han#C4#B1m"}
