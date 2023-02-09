@@ -974,7 +974,7 @@ Dialogue: 0,1:42:36.88,1:42:38.42,Default,,0,0,0,,{\i1}Özgüvenim de giderek ar
 Dialogue: 0,1:42:39.38,1:42:43.42,Default,,0,0,0,,{\i1}Bazen huysuzluğum tutsa da bu şehri seviyorum.
 Dialogue: 0,1:42:50.43,1:42:57.60,ts,,0,0,0,,{\fad(550,200)\blur0.8\b1\fnLexie Readable\shad0\bord0\pos(945,604.86)\c&HF5F4F5&}SON
 Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{giriş}
-Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{Çeviri Editörü: Vuats & Fei}{Şarkılar, Yazı Dizimi: Vuats}{Redaksiyon: Kenanke}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
+Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{Çeviri: NFLX}Çeviri Editörü: Vuats & Fei}{Şarkılar, Yazı Dizimi: Vuats}{Redaksiyon: Kenanke}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Dialogue: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&H743E25&\1a&HFA&\blur0.5\t(0,315,\c&HC89A7E&\1a&H10&)}Küçük Cadı Kiki
 Dialogue: 0,0:08:03.67,0:08:09.26,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&HCBA692&\1a&H09&\blur0.5\t(0,142,\1a&H00\1c&HFFFFFF&)}Küçük Cadı Kiki
 Dialogue: 0,0:08:09.26,0:08:09.42,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&HEBE9E0&\blur0.5\t(15,150,\1c&HD5B399&)\1a&H00}Küçük Cadı Kiki
