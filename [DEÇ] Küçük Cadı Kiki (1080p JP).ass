@@ -45,7 +45,7 @@ Dialogue: 0,0:01:49.96,0:01:52.17,Default,,0,0,0,,Gittiğim gece mükemmel olmal
 Dialogue: 0,0:01:52.42,0:01:54.63,Default,,0,0,0,,Kiki, bekle!
 Dialogue: 0,0:01:58.89,0:02:01.51,Default,,0,0,0,,Bu gitme meselesi cadılıkla ilgili mi?
 Dialogue: 0,0:02:02.10,0:02:04.35,Default,,0,0,0,,Evet. Eski bir geleneğimizdir.
-Dialogue: 0,0:02:04.97,0:02:08.23,Default,,0,0,0,,Cadılar 13 yaşında eğitim için\N bir yıllığına evi terk eder. {13 yaşına girince desek daha düzgün bir cümle olabilir diye düşünüyorum}
+Dialogue: 0,0:02:04.97,0:02:08.23,Default,,0,0,0,,Cadılar 13 yaşına geldiklerinde, \Neğitim için bir yıllığına evi terk ederler.
 Dialogue: 0,0:02:08.56,0:02:10.56,Default,,0,0,0,,Zaman su gibi akıp gitmiş...
 Dialogue: 0,0:02:11.06,0:02:13.90,Default,,0,0,0,,Kiki çoktan 13'üne girdi demek...
 Dialogue: 0,0:02:13.98,0:02:17.11,Default,,0,0,0,,Ama bu yaşta evini \Nterk eden kalmadı ki artık.
@@ -89,23 +89,23 @@ Dialogue: 0,0:04:33.66,0:04:35.83,Default,,0,0,0,,Baba, radyoyu alabilir miyim?
 Dialogue: 0,0:04:36.17,0:04:39.55,Default,,0,0,0,,Annem alabileceğimi söyledi. Lütfen!
 Dialogue: 0,0:04:40.25,0:04:41.51,Default,,0,0,0,,Pekala radyo artık senin.
 Dialogue: 0,0:04:42.13,0:04:45.01,Default,,0,0,0,,Şuna bak, küçük cadı ne kadar da büyümüş.
-Dialogue: 0,0:04:53.10,0:04:54.89,Default,,0,0,0,,Annenin gençliğini anımsatıyorsun. {en doğalı bu olur bence}
+Dialogue: 0,0:04:53.10,0:04:54.89,Default,,0,0,0,,Tıpkı annenin gençliği gibisin.
 Dialogue: 0,0:04:55.65,0:04:59.65,Default,,0,0,0,,Baba, eskiden olduğu gibi\Nbeni kucağına alır mısın?
 Dialogue: 0,0:05:00.23,0:05:01.19,Default,,0,0,0,,Gel bakalım.
 Dialogue: 0,0:05:13.70,0:05:16.17,Default,,0,0,0,,Ne ara kocaman kız oldun sen...
 Dialogue: 0,0:05:17.63,0:05:19.75,Default,,0,0,0,,İşler ters giderse dön, tamam mı?
 Dialogue: 0,0:05:19.84,0:05:22.92,Default,,0,0,0,,Başarısız mı olayım? İstemem, kalsın!
-Dialogue: 0,0:05:26.43,0:05:28.05,Default,,0,0,0,,Umarım güzel bir yer bulursun. {"I hope you find a good town" -> "Zamanın geldiğine emin misin?" - Netflix moment.}
-Dialogue: 0,0:05:40.06,0:05:43.15,Default,,0,0,0,,Koca bir kasabada bir \Nbaşına olmak kolay değildir. {normalde şehir dedim de, buralarda emin olamıyorum kasaba mı şehir mi, alternatif büyükşehir olabilir}{check}
+Dialogue: 0,0:05:26.43,0:05:28.05,Default,,0,0,0,,Umarım güzel bir yer bulursun. {"Zamanın geldiğine emin misin?" -> Netflix moment.}
+Dialogue: 0,0:05:40.06,0:05:43.15,Default,,0,0,0,,Büyükşehirde bir başına olmak kolay değildir.
 Dialogue: 0,0:05:43.23,0:05:45.24,Default,,0,0,0,,Kiki başının çaresine bakar.
 Dialogue: 0,0:05:45.49,0:05:47.03,Default,,0,0,0,,Nasıl bir yer arıyorsun?
-Dialogue: 0,0:05:47.11,0:05:48.16,Default,,0,0,0,,Büyükşehir mi? {check}
-Dialogue: 0,0:05:48.24,0:05:50.62,Default,,0,0,0,,Evet, denizi gören bir yer bulmak istiyorum. {check}{okyanus yerine deniz daha doğru bence, yok diyorsanız hepsini okyanusa çevirin}{Feiberat-> deniz iyi}
+Dialogue: 0,0:05:47.11,0:05:48.16,Default,,0,0,0,,Büyükşehir mi?
+Dialogue: 0,0:05:48.24,0:05:50.62,Default,,0,0,0,,Evet, denizi gören bir yer bulmak istiyorum.
 Dialogue: 0,0:05:50.70,0:05:52.16,Default,,0,0,0,,-Ne güzel ya!\N-Gerçekten mi?
 Dialogue: 0,0:05:52.24,0:05:53.70,Default,,0,0,0,,Harika!
 Dialogue: 0,0:05:54.29,0:05:55.96,Default,,0,0,0,,Ama eğlenmeye gitmiyorum ki!
 Dialogue: 0,0:05:56.04,0:05:59.38,Default,,0,0,0,,Başka bir bölgede bir sene çalışmazsam cadı olamam.
-Dialogue: 0,0:05:59.67,0:06:01.54,Default,,0,0,0,,Ama şehirlerde kesin disko falan olur!{Tabii, bunu oğlanlara da söyle. - Netflix moment}
+Dialogue: 0,0:05:59.67,0:06:01.54,Default,,0,0,0,,Ne dersen de, şehirde disko olacak! {"Tabii, bunu oğlanlara da söyle." -> Netflix moment}
 Dialogue: 0,0:06:04.96,0:06:06.38,Default,,0,0,0,,Kiki, vakit geldi.
 Dialogue: 0,0:06:06.80,0:06:07.72,Default,,0,0,0,,Tamam!
 Dialogue: 0,0:06:09.72,0:06:11.26,Default,,0,0,0,,Bu süpürgeyle mi gideceksin?
@@ -163,7 +163,7 @@ Dialogue: 0,0:12:41.82,0:12:44.45,Default,,0,0,0,,Kusura bakmayın,\Nkahvaltın�
 Dialogue: 0,0:12:56.25,0:13:00.25,Default,,0,0,0,,Jiji, ilk kez denizi görüyorum!\NÇok güzelmiş!
 Dialogue: 0,0:13:00.63,0:13:03.34,Default,,0,0,0,,Altı üstü büyük bir su birikintisi.
 Dialogue: 0,0:13:03.42,0:13:04.59,Default,,0,0,0,,Şuraya bak!
-Dialogue: 0,0:13:13.89,0:13:17.77,Default,,0,0,0,,Kocaman bir kasaba.\NBaşka cadılar da var mıdır? {kasaba-şehir yine sıkıntı gibi}{check}
+Dialogue: 0,0:13:13.89,0:13:17.77,Default,,0,0,0,,Kocaman bir şehir.\NBaşka cadılar da var mıdır?
 Dialogue: 0,0:13:17.86,0:13:18.77,Default,,0,0,0,,Vardır herhalde.
 Dialogue: 0,0:13:33.33,0:13:34.25,Default,,0,0,0,,Hazır mısın?
 Dialogue: 0,0:13:44.38,0:13:45.97,Default,,0,0,0,,Jiji, arkada iyi misin?
@@ -176,7 +176,7 @@ Dialogue: 0,0:14:25.92,0:14:27.13,Default,,0,0,0,,Belki de yoktur.
 Dialogue: 0,0:15:05.09,0:15:06.84,Default,,0,0,0,,Ne kadar güzel.
 Dialogue: 0,0:15:06.92,0:15:09.01,Default,,0,0,0,,Nesi güzel? Bir sürü insan var.
 Dialogue: 0,0:15:09.09,0:15:11.84,Default,,0,0,0,,Kum saati aşkına! Gerçek bir cadı bu!
-Dialogue: 0,0:15:13.68,0:15:17.43,Default,,0,0,0,,Günaydın! Bu şehirde başka cadı var mı? {check}
+Dialogue: 0,0:15:13.68,0:15:17.43,Default,,0,0,0,,Günaydın! Bu şehirde başka cadı var mı?
 Dialogue: 0,0:15:18.18,0:15:21.44,Default,,0,0,0,,Cadı görmeyeli çok oldu.
 Dialogue: 0,0:15:22.10,0:15:26.19,Default,,0,0,0,,Duydun mu? Buraya yerleşiyoruz!\NSağ olun bayım! Hoşça kalın!
 Dialogue: 0,0:15:26.28,0:15:27.28,Default,,0,0,0,,Rica ederim!
@@ -202,7 +202,7 @@ Dialogue: 0,0:17:59.72,0:18:01.89,Default,,0,0,0,,Hırsız diye bağıran bendim
 Dialogue: 0,0:18:02.18,0:18:04.89,Default,,0,0,0,,Sen gerçek bir cadısın! \NAz evvel seni uçarken gördüm!
 Dialogue: 0,0:18:05.23,0:18:09.77,Default,,0,0,0,,Ciddi ciddi süpürgeye falan biniyorsun!\NSüpürgene yakından bakabilir miyim?
 Dialogue: 0,0:18:09.86,0:18:11.11,Default,,0,0,0,,Tombo!
-Dialogue: 0,0:18:12.44,0:18:14.23,Default,,0,0,0,,Yavşaklık için saat çok erken değil mi!? {mahalle çocukları}{check}
+Dialogue: 0,0:18:12.44,0:18:14.23,Default,,0,0,0,,Yavşaklık için saat çok erken değil mi!?
 Dialogue: 0,0:18:14.86,0:18:16.11,Default,,0,0,0,,Boş yapmayın!
 Dialogue: 0,0:18:21.12,0:18:24.04,Default,,0,0,0,,Hadi ama, sadece birazcık. Ne olacak sanki?
 Dialogue: 0,0:18:24.70,0:18:28.62,Default,,0,0,0,,Yardım ettiğin için sağ ol.\NAma senden yardım istemedim.
@@ -251,14 +251,14 @@ Dialogue: 0,0:23:10.99,0:23:13.33,Default,,0,0,0,,Otursana. Sıcak çikolata?
 Dialogue: 0,0:23:13.53,0:23:14.41,Default,,0,0,0,,Olur.
 Dialogue: 0,0:23:27.71,0:23:28.59,Default,,0,0,0,,Teşekkürler.
 Dialogue: 0,0:23:28.67,0:23:29.88,Default,,0,0,0,,Seninki de burada.
-Dialogue: 0,0:23:32.93,0:23:36.47,Default,,0,0,0,,Demek kendine cadı başına yaşayacak bir yer arıyorsun. {check}
+Dialogue: 0,0:23:32.93,0:23:36.47,Default,,0,0,0,,Demek kendine cadı başına yaşayacak bir yer arıyorsun.
 Dialogue: 0,0:23:38.35,0:23:41.52,Default,,0,0,0,,Ama sanırım bu şehrin insanları\Ncadıları pek sevmiyor.
 Dialogue: 0,0:23:42.06,0:23:44.81,Default,,0,0,0,,Burası büyük bir şehir,\Nher türlü insan vardır.
 Dialogue: 0,0:23:44.90,0:23:47.19,Default,,0,0,0,,Mesela ben seni çok sevdim.
 Dialogue: 0,0:23:50.40,0:23:52.28,Default,,0,0,0,,Eee, nerede kalacağını buldun mu?
 Dialogue: 0,0:23:56.62,0:23:59.37,Default,,0,0,0,,Bunu neden daha önce söylemedin?
 Dialogue: 0,0:23:59.45,0:24:02.00,Default,,0,0,0,,Tavan arasında boş bir odamız var.
-Dialogue: 0,0:24:02.08,0:24:03.42,Default,,0,0,0,,Gerçekten mi hanımefendi? {Madam da kullanılabilir}{check}
+Dialogue: 0,0:24:02.08,0:24:03.42,Default,,0,0,0,,Gerçekten mi hanımefendi?
 Dialogue: 0,0:24:05.59,0:24:09.51,Default,,0,0,0,,Hanımefendi demene gerek yok,\Nburada bana Fırıncı Osono derler.
 Dialogue: 0,0:24:10.72,0:24:14.01,Default,,0,0,0,,Ben de Kiki. Bu da kara kedim Jiji.
 Dialogue: 0,0:24:28.86,0:24:31.86,Default,,0,0,0,,-Biraz dağınık ama istediğin gibi düzenleyebilirsin.\N-Teşekkürler.
@@ -266,7 +266,7 @@ Dialogue: 0,0:24:31.95,0:24:35.37,Default,,0,0,0,,Banyo ve lavabo aşağıda.\NB
 Dialogue: 0,0:24:35.74,0:24:36.70,Default,,0,0,0,,Sağ olun!
 Dialogue: 0,0:24:41.91,0:24:43.37,Default,,0,0,0,,Burası dökülüyor.
 Dialogue: 0,0:24:43.79,0:24:44.75,Default,,0,0,0,,Evet.
-Dialogue: 0,0:24:56.47,0:24:59.43,Default,,0,0,0,,Sabah un kurabiyesi olarak uyanırsam şaşırma. {Kara kedi yatıp Beyaz Kedi kalkmaktan bahsediyor, etraf tozlu ve patileri beyazlaşıyor. fırının kullanılmayan çatı katı, toz da gidebilir un da. O yüzden un yakışabilir bu duruma, feiberat beğendi}{Check}
+Dialogue: 0,0:24:56.47,0:24:59.43,Default,,0,0,0,,Sabah un kurabiyesi olarak uyanırsam şaşırma.
 Dialogue: 0,0:25:03.56,0:25:05.98,Default,,0,0,0,,Jiji, gel de denize bak.
 Dialogue: 0,0:25:12.53,0:25:14.74,Default,,0,0,0,,Yarın başka bir şehir arayalım mı?
 Dialogue: 0,0:25:28.33,0:25:30.13,Default,,0,0,0,,Hareketlere bak, ablak kafa!
@@ -282,9 +282,9 @@ Dialogue: 0,0:28:24.22,0:28:25.14,Default,,0,0,0,,Tabii ki!
 Dialogue: 0,0:28:47.16,0:28:48.53,Default,,0,0,0,,Dağıtım servisi demek.
 Dialogue: 0,0:28:48.62,0:28:51.50,Default,,0,0,0,,Tek bir yeteneğim var, o da uçmak.
 Dialogue: 0,0:28:51.75,0:28:53.96,Default,,0,0,0,,Dağıtım servisi iyi olur diye düşündüm.
-Dialogue: 0,0:28:54.37,0:28:55.67,Default,,0,0,0,,Kulağa hoş geliyor.
-Dialogue: 0,0:28:55.75,0:28:58.04,Default,,0,0,0,,Kiki'nin Uçan Dağıtım Servisi!
-Dialogue: 0,0:28:58.46,0:29:01.46,Default,,0,0,0,,Burada kalacağına göre de\No odayı kullanabilirsin.
+Dialogue: 0,0:28:54.37,0:28:55.67,Default,,0,0,0,,İlginç bir fikir.
+Dialogue: 0,0:28:55.75,0:28:58.04,Default,,0,0,0,,Uçan dağıtım servisi demek!
+Dialogue: 0,0:28:58.46,0:29:01.46,Default,,0,0,0,,Kulağa güzel geliyor. \Nİstersen o odaya yerleşebilirsin.
 Dialogue: 0,0:29:01.55,0:29:02.59,Default,,0,0,0,,Gerçekten mi?
 Dialogue: 0,0:29:03.47,0:29:04.88,Default,,0,0,0,,Bu harika!
 Dialogue: 0,0:29:05.89,0:29:08.93,Default,,0,0,0,,-Yukarıya bir telefon istiyorum.\N-Telefona para lazım.
@@ -325,7 +325,7 @@ Dialogue: 0,0:32:54.91,0:32:56.70,Default,,0,0,0,,Götürmeni istediğim şey bu
 Dialogue: 0,0:32:56.78,0:32:58.20,Default,,0,0,0,,Akşama yetişir mi?
 Dialogue: 0,0:32:59.54,0:33:00.75,Default,,0,0,0,,Elbette!
 Dialogue: 0,0:33:01.29,0:33:06.29,Default,,0,0,0,,Yeğenimin doğum günü hediyesi de.\NAcil işim çıktığı için partiye gidemeyeceğim.
-Dialogue: 0,0:33:06.38,0:33:08.04,Default,,0,0,0,,Nereye götürmemi istersiniz.
+Dialogue: 0,0:33:06.38,0:33:08.04,Default,,0,0,0,,Nereye götürmemi istersiniz?
 Dialogue: 0,0:33:11.63,0:33:13.01,Default,,0,0,0,,Şuradayım.
 Dialogue: 0,0:33:13.47,0:33:15.22,Default,,0,0,0,,Uzak gelmesin?
 Dialogue: 0,0:33:15.80,0:33:17.47,Default,,0,0,0,,Buradan dümdüz uçabilirim.
@@ -447,7 +447,7 @@ Dialogue: 0,0:45:20.23,0:45:22.32,Default,,0,0,0,,Oyuncağı eve götürebilirmi
 Dialogue: 0,0:45:29.91,0:45:31.41,Default,,0,0,0,,Bize bu iyiliği yapar mısın?
 Dialogue: 0,0:46:02.03,0:46:03.53,Default,,0,1080,0,,İyi misin bakayım?
 Dialogue: 0,0:46:04.03,0:46:05.32,Default,,0,1080,0,,Karnım aç.
-Dialogue: 0,0:46:05.40,0:46:10.08,Default,,0,1080,0,,{\q2}Değil mi? \NUykumuz da geldi.\NAma ilk günümüz çok güzel geçti. {kedy görünsün diyeymiş} {check}
+Dialogue: 0,0:46:05.40,0:46:10.08,Default,,0,1080,0,,{\q2}Değil mi? \NUykumuz da geldi.\NAma ilk günümüz çok güzel geçti.
 Dialogue: 0,0:46:10.16,0:46:15.08,Default,,0,1080,0,,{\q2}Bu arada oyuncağı \Nbulan ressam benim \Nresmimi çizmek istiyor.
 Dialogue: 0,0:46:15.16,0:46:16.54,Default,,0,1080,0,,-Çıplak mı?\N-Şapşal!
 Dialogue: 0,0:47:51.97,0:47:53.68,Default,,0,0,0,,Çok sıkıcı.
@@ -519,7 +519,7 @@ Dialogue: 0,0:53:25.84,0:53:27.76,Default,,0,0,0,,Süpürge ve kara bir kedi.
 Dialogue: 0,0:53:27.85,0:53:30.93,Default,,0,0,0,,Büyük büyükannem hep anlatırdı.
 Dialogue: 0,0:53:32.14,0:53:34.06,Default,,0,0,0,,Ben Cadı Kiki, efendim.
 Dialogue: 0,0:53:35.65,0:53:38.69,Default,,0,0,0,,Nasıl da tatlı bir cadısın.
-Dialogue: 0,0:53:39.02,0:53:44.24,Default,,0,0,0,,Üzgünüm, götürmeni istediğimiz kiş hâlâ hazır değil. {check}
+Dialogue: 0,0:53:39.02,0:53:44.24,Default,,0,0,0,,Üzgünüm, götürmeni istediğimiz kiş hâlâ hazır değil.
 Dialogue: 0,0:53:46.53,0:53:51.08,Default,,0,0,0,,Nedense bir türlü ısınmıyor.\NTuhaf değil mi?
 Dialogue: 0,0:53:54.08,0:53:57.50,Default,,0,0,0,,Benim gibi miadını doldurduklarında çalışmıyorlar.
 Dialogue: 0,0:53:57.92,0:54:01.80,Default,,0,0,0,,Torunumun doğum günü için\Nbu kişi sıcak sıcak götürmeni istiyordum.
@@ -545,7 +545,7 @@ Dialogue: 0,0:55:01.02,0:55:02.19,Default,,0,0,0,,Deneyelim mi, efendim?
 Dialogue: 0,0:55:02.77,0:55:03.98,Default,,0,0,0,,Gerçekten mi?
 Dialogue: 0,0:55:05.03,0:55:06.74,Default,,0,0,0,,Pekala, deneyelim öyleyse.
 Dialogue: 0,0:55:11.70,0:55:14.37,Default,,0,0,0,,Partiye geç kalabilirsin, benden söylemesi.
-Dialogue: 0,0:55:14.45,0:55:16.33,Default,,0,0,0,,Çalışmadan para kazanmak olmaz. {check}{yanlış olmasa da farklı bir şey tercih etmek isterseniz düzeltin}
+Dialogue: 0,0:55:14.45,0:55:16.33,Default,,0,0,0,,Çalışmadan para kazanmak olmaz.
 Dialogue: 0,0:55:24.67,0:55:25.88,Default,,0,0,0,,Haydi koş!
 Dialogue: 0,0:55:28.05,0:55:30.43,Default,,0,0,0,,Bakın, bu da çalışıyor!
 Dialogue: 0,0:55:31.26,0:55:35.06,Default,,0,0,0,,Hazırlığın güzel duruyor, annen iyi bir öğretmen olmalı.
@@ -612,7 +612,7 @@ Dialogue: 0,1:02:47.95,1:02:50.07,Default,,0,0,0,,Yulaf soğuk algınlığına �
 Dialogue: 0,1:02:51.16,1:02:52.49,Default,,0,0,0,,Al bakalım, Jiji.
 Dialogue: 0,1:02:54.33,1:02:55.96,Default,,0,0,0,,Sıcaktır, dilini yakma.
 Dialogue: 0,1:03:00.00,1:03:03.09,Default,,0,0,0,,Hadi soğumadan ye, kalkabilecek misin?
-Dialogue: 0,1:03:04.05,1:03:07.13,Default,,0,0,0,,-Yemesem olmaz mı?\N-İyileşmek istiyorsan olmaz. {Ölmek istemiyorsan? :joy_react:}
+Dialogue: 0,1:03:04.05,1:03:07.13,Default,,0,0,0,,-Yemesem olmaz mı?\N-İyileşmek istiyorsan olmaz. {"Ölmek istemiyorsan?" da gider ama neyse :kekw:}
 Dialogue: 0,1:03:07.93,1:03:10.64,Default,,0,0,0,,Bu arada o çocuk sabah dükkana geldi.
 Dialogue: 0,1:03:12.68,1:03:16.48,Default,,0,0,0,,Hasta olduğunu söylediğimde çok şaşırdı.\N''Cadılar hasta olur mu ya?'' dedi.
 Dialogue: 0,1:03:18.56,1:03:21.06,Default,,0,0,0,,Seni ziyarete geleceğini söyledi.
@@ -664,7 +664,7 @@ Dialogue: 0,1:07:52.21,1:07:54.09,Default,,0,0,0,,Televizyonda görmedin mi?
 Dialogue: 0,1:07:54.17,1:07:55.05,Default,,0,0,0,,Hastaydım.
 Dialogue: 0,1:07:55.13,1:07:56.88,Default,,0,0,0,,Haydi gidelim o zaman!
 Dialogue: 0,1:07:57.80,1:07:59.09,Default,,0,0,0,,Bununla mı gideceğiz?
-Dialogue: 0,1:07:59.17,1:08:03.14,Default,,0,0,0,,Neden olmasın?\NBacaklarım açılmış olur. {check}
+Dialogue: 0,1:07:59.17,1:08:03.14,Default,,0,0,0,,Neden olmasın?\NBacaklarım açılmış olur.
 Dialogue: 0,1:08:04.30,1:08:05.51,Default,,0,0,0,,Pekala, hazır mısın?
 Dialogue: 0,1:08:12.02,1:08:13.77,Default,,0,0,0,,Daha önce hiç bisiklete binmedim.
 Dialogue: 0,1:08:13.86,1:08:16.02,Default,,0,0,0,,Harbi mi? \NDaha iyi ya!
@@ -808,18 +808,18 @@ Dialogue: 0,1:26:01.05,1:26:03.72,Default,,0,0,0,,Kafanı biraz kaldır, ufka do
 Dialogue: 0,1:26:04.18,1:26:05.72,Default,,0,0,0,,Kıpırdama.
 Dialogue: 0,1:26:07.26,1:26:09.51,Default,,0,0,0,,Resim ve büyü birbirlerine çok benziyor.
 Dialogue: 0,1:26:10.01,1:26:11.72,Default,,0,0,0,,Bazen ben de resim yapamam.
-Dialogue: 0,1:26:12.18,1:26:14.44,Default,,0,0,0,,Gerçekten mi? Sonra ne oluyor?
-Dialogue: 0,1:26:14.73,1:26:16.27,Default,,0,0,0,,Buraya bakmamalısın.
+Dialogue: 0,1:26:12.18,1:26:14.44,Default,,0,0,0,,Gerçekten mi? \NÖyle olduğunda ne yapıyorsun?
+Dialogue: 0,1:26:14.73,1:26:16.27,Default,,0,0,0,,Bu yöne bakmamalısın.
 Dialogue: 0,1:26:19.69,1:26:22.78,Default,,0,0,0,,Dünyanın en normal \Nşeyiymiş gibi uçabiliyordum.
 Dialogue: 0,1:26:23.19,1:26:26.74,Default,,0,0,0,,Ama şimdi nasıl yaptığımı bile hatırlamıyorum.
 Dialogue: 0,1:26:29.33,1:26:31.79,Default,,0,0,0,,Böyle durumlarda, elimden\N sadece çabalamak gelir.
 Dialogue: 0,1:26:31.79,1:26:33.87,Default,,0,0,0,,"Çizersen düzelecek!" diye diye motive olurum.
-Dialogue: 0,1:26:34.37,1:26:36.29,Default,,0,0,0,,Ama ya hiç beceremiyorsam...
-Dialogue: 0,1:26:36.96,1:26:38.13,Default,,0,0,0,,Denemeyi bırakırım.{Check}
-Dialogue: 0,1:26:39.04,1:26:42.51,Default,,0,0,0,,Yürüyüş yapar, manzarayı izler,\Nöğle uykularına yatarım.
-Dialogue: 0,1:26:43.76,1:26:45.68,Default,,0,0,0,,Bir gün bir bakmışsın, yeniden uçuyorsun.
+Dialogue: 0,1:26:34.37,1:26:36.29,Default,,0,0,0,,Peki hiç beceremiyorsan...
+Dialogue: 0,1:26:36.96,1:26:38.13,Default,,0,0,0,,Denemeyi bırakırdım.
+Dialogue: 0,1:26:39.04,1:26:42.51,Default,,0,0,0,,Yürüyüş yapar, manzarayı izler,\Nöğle uykularına yatardım.
+Dialogue: 0,1:26:43.76,1:26:45.68,Default,,0,0,0,,Sonra bir bakmışsın, yeniden uçuyorsun.
 Dialogue: 0,1:26:46.34,1:26:47.18,Default,,0,0,0,,Gerçekten mi?
-Dialogue: 0,1:26:47.72,1:26:50.43,Default,,0,0,0,,Tabii ki! Haydi yana dön.
+Dialogue: 0,1:26:47.72,1:26:50.43,Default,,0,0,0,,Tabii ki! Haydi şimdi yana dön.
 Dialogue: 0,1:27:11.53,1:27:15.83,Default,,0,0,0,,Senin yaşındayken\Nressam olmaya karar vermiştim.
 Dialogue: 0,1:27:16.37,1:27:19.58,Default,,0,0,0,,Resim yapmayı çok severdim.\NRüyamda bile resim yapardım.
 Dialogue: 0,1:27:20.13,1:27:22.88,Default,,0,0,0,,Bir gün durup dururken\Nresim yeteneğim gitti.
@@ -843,7 +843,7 @@ Dialogue: 0,1:28:27.57,1:28:32.45,Default,,0,0,0,,Ben de bazen bu resmin üzerin
 Dialogue: 0,1:28:33.45,1:28:34.78,Default,,0,0,0,,Ama harika olmuş.
 Dialogue: 0,1:28:35.58,1:28:36.74,Default,,0,0,0,,Bugün yanına geldiğimde...
 Dialogue: 0,1:28:37.16,1:28:42.12,Default,,0,0,0,,İşte çizmek istediğim güzel yüz bu! Dedim içimden.\N Seni çizebileceğimi biliyordum.
-Dialogue: 0,1:28:42.38,1:28:43.46,Default,,0,0,0,,Terbiyesiz... {check}
+Dialogue: 0,1:28:42.38,1:28:43.46,Default,,0,0,0,,Terbiyesiz...
 Dialogue: 0,1:28:45.50,1:28:46.38,Default,,0,0,0,,Ödeştik.
 Dialogue: 0,1:28:48.34,1:28:49.97,Default,,0,0,0,,-Artık uyuyalım mı?\N-Olur.
 Dialogue: 0,1:28:52.80,1:28:54.39,Default,,0,0,0,,Yatağını aldığım için üzgünüm.
@@ -900,7 +900,7 @@ Dialogue: 0,1:32:34.02,1:32:37.99,Default,,0,0,0,,{\i1}Sıkışan helyum gazı{\
 Dialogue: 0,1:32:38.07,1:32:40.86,Default,,0,0,0,,Tombo! İpe asılı olan benim arkadaşım!
 Dialogue: 0,1:32:40.95,1:32:42.16,Default,,0,0,0,,Ne?
 Dialogue: 0,1:32:42.62,1:32:45.74,Default,,0,0,0,,{\i1}Araba resmen oyuncak gibi asılı kaldı!{\i0}
-Dialogue: 0,1:32:45.83,1:32:49.87,Default,,0,0,0,,{\i1}Kablonun ucunda genç bir çocuk var!{\i0}
+Dialogue: 0,1:32:45.83,1:32:49.87,Default,,0,0,0,,{\i1}Bu bir felaket!\NBir genç de ipte kaldı!{\i0}
 Dialogue: 0,1:32:49.96,1:32:53.42,Default,,0,0,0,,{\i1}Polis arabasıyla beraber sürükleniyor!{\i0}\N{\i1}Gözlerime inanamıyorum!{\i0}
 Dialogue: 0,1:32:53.67,1:32:54.75,Default,,0,0,0,,{\i1}Yakındaki ekip...{\i0}
 Dialogue: 0,1:32:55.21,1:32:56.92,Default,,0,0,0,,Arkadaşın olduğuna emin misin?
@@ -924,7 +924,7 @@ Dialogue: 0,1:34:49.37,1:34:50.33,Default,,0,0,0,,Kusura bakmayın...
 Dialogue: 0,1:35:27.95,1:35:28.78,Default,,0,0,0,,Uç.
 Dialogue: 0,1:35:31.62,1:35:32.74,Default,,0,0,0,,Uçuyor!
 Dialogue: 0,1:36:01.02,1:36:03.32,Default,,0,0,0,,Düz uçmazsan seni ateşe atarım!
-Dialogue: 0,1:36:10.66,1:36:15.29,Default,,0,0,0,,Çocuk güvende görünüyor\Nama zeplin saat kulesine çarpacak gibi.
+Dialogue: 0,1:36:10.66,1:36:15.29,Default,,0,0,0,,Genç güvende görünüyor\Nama zeplin saat kulesine çarpacak gibi.
 Dialogue: 0,1:36:15.41,1:36:20.67,Default,,0,0,0,,Rüzgar yön değiştirmezse\Nzeplin kesinlikle saat kulesine çarpacak.
 Dialogue: 0,1:36:22.42,1:36:25.21,Default,,0,0,0,,Yükselmemiz lazım yoksa çarpacağız!
 Dialogue: 0,1:36:26.05,1:36:29.47,Default,,0,0,0,,Helyum yetmez! \NÇarpmadan önce kuleye atla!
@@ -935,13 +935,13 @@ Dialogue: 0,1:36:35.56,1:36:36.60,Default,,0,0,0,,Şunu tut!
 Dialogue: 0,1:36:53.78,1:36:54.78,Default,,0,0,0,,Daha hızlı uç!
 Dialogue: 0,1:36:55.87,1:36:57.29,Default,,0,0,0,,Daha hızlı!
 Dialogue: 0,1:37:11.63,1:37:14.34,Default,,0,0,0,,Sızan helyum gazının sesini duyuyoruz.
-Dialogue: 0,1:37:14.43,1:37:17.60,Default,,0,0,0,,Çocuğun durumunu bulunduğumuz\N noktadan tam olarak...
+Dialogue: 0,1:37:14.43,1:37:17.60,Default,,0,0,0,,Gencin durumunu bulunduğumuz \Nnoktadan iyi göremiyoruz...
 Dialogue: 0,1:37:22.60,1:37:25.52,Default,,0,0,0,,Çok fazla gaz kaçağı var,\N zeplin düşüyor!
 Dialogue: 0,1:37:36.78,1:37:39.87,Default,,0,0,0,,-Başka bir binanın üstüne düştü!\N-Şuraya bakın!
-Dialogue: 0,1:37:39.95,1:37:41.71,Default,,0,0,0,,Bu bir mucize!
-Dialogue: 0,1:37:41.79,1:37:43.83,Default,,0,0,0,,Çocuk bir şekilde ipe tutunmuş!
+Dialogue: 0,1:37:39.95,1:37:41.71,Default,,0,0,0,,Genci tekrar görüyoruz!
+Dialogue: 0,1:37:41.79,1:37:43.83,Default,,0,0,0,,Bu bir mucize, bir şekilde ipe tutunmuş!
 Dialogue: 0,1:37:44.63,1:37:47.46,Default,,0,0,0,,Ama şimdi onu oradan kim kurtaracak?
-Dialogue: 0,1:37:47.54,1:37:49.67,Default,,0,0,0,,Zavallı çocuk canı pahasına ipe asılıyor.
+Dialogue: 0,1:37:47.54,1:37:49.67,Default,,0,0,0,,Zavallı genç canı pahasına ipe asılıyor.
 Dialogue: 0,1:37:50.63,1:37:51.67,Default,,0,0,0,,Neler oluyor?
 Dialogue: 0,1:37:52.30,1:37:56.47,Default,,0,0,0,,Kuş mu? Hayır! Küçük bir kız! \NKüçük bir cadı süpürgeyle uçuyor!
 Dialogue: 0,1:37:56.80,1:37:59.47,Default,,0,0,0,,{\i1}Gökte gerçekten süpürgeyle\N süzülen bir cadı var!{\i0}
@@ -958,7 +958,7 @@ Dialogue: 0,1:38:22.12,1:38:23.16,Default,,0,0,0,,Kiki!
 Dialogue: 0,1:38:29.17,1:38:30.67,Default,,0,0,0,,Başarabilirsin, vazgeçme!
 Dialogue: 0,1:38:30.75,1:38:33.51,Default,,0,0,0,,Hadi!
 Dialogue: 0,1:38:33.59,1:38:34.63,Default,,0,0,0,,Az kaldı!
-Dialogue: 0,1:38:50.19,1:38:53.36,Default,,0,0,0,,Yakaladı!\NÇocuk kurtuldu!
+Dialogue: 0,1:38:50.19,1:38:53.36,Default,,0,0,0,,Yakaladı!\NGenç kurtuldu!
 Dialogue: 0,1:39:11.25,1:39:14.72,Default,,0,0,0,,Az önce yere indiler.\NÇok duygusal anlar yaşanıyor.
 Dialogue: 0,1:39:14.80,1:39:16.68,Default,,0,0,0,,Zeplinin mürettebatı da iyi.
 Dialogue: 0,1:39:16.76,1:39:19.09,Default,,0,0,0,,O kullandığı süpürge benim, ben verdim.
@@ -970,10 +970,11 @@ Dialogue: 0,1:42:23.40,1:42:25.41,Default,,0,0,0,,Hayatım! Kiki'den mektup var!
 Dialogue: 0,1:42:29.20,1:42:31.75,Default,,0,0,0,,"Sevgili anneciğim ve babacığım,\Nnasılsınız?
 Dialogue: 0,1:42:31.83,1:42:33.83,Default,,0,0,0,,Jiji ve ben çok iyiyiz."
 Dialogue: 0,1:42:34.50,1:42:36.79,Default,,0,0,0,,{\i1}İşlerimi yoluna koydum sayılır.{\i0}
-Dialogue: 0,1:42:36.88,1:42:38.42,Default,,0,0,0,,{\i1}Öz güvenim de giderek artıyor.{\i0}
+Dialogue: 0,1:42:36.88,1:42:38.42,Default,,0,0,0,,{\i1}Özgüvenim de giderek artıyor.{\i0}
 Dialogue: 0,1:42:39.38,1:42:43.42,Default,,0,0,0,,{\i1}Bazen huysuzluğum tutsa da bu şehri seviyorum.
 Dialogue: 0,1:42:50.43,1:42:57.60,ts,,0,0,0,,{\fad(550,200)\blur0.8\b1\fnLexie Readable\shad0\bord0\pos(945,604.86)\c&HF5F4F5&}SON
 Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{giriş}
+Comment: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{Çeviri Editörü: Vuats & Fei}{Şarkılar, Yazı Dizimi: Vuats}{Redaksiyon: Kenanke}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Dialogue: 0,0:08:03.33,0:08:03.67,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&H743E25&\1a&HFA&\blur0.5\t(0,315,\c&HC89A7E&\1a&H10&)}Küçük Cadı Kiki
 Dialogue: 0,0:08:03.67,0:08:09.26,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&HCBA692&\1a&H09&\blur0.5\t(0,142,\1a&H00\1c&HFFFFFF&)}Küçük Cadı Kiki
 Dialogue: 0,0:08:09.26,0:08:09.42,ts,,0,0,0,,{\pos(660,760)\fnNyala\fs85\i1\c&HEBE9E0&\blur0.5\t(15,150,\1c&HD5B399&)\1a&H00}Küçük Cadı Kiki
@@ -1938,37 +1939,37 @@ Dialogue: 0,0:49:49.13,0:49:49.17,ts,,0,0,0,,{=29=31}{\pos(1004.99,619.99)\fscx1
 Dialogue: 0,0:49:49.17,0:49:49.21,ts,,0,0,0,,{=29=31}{\pos(1005.51,619.89)\fscx103.29\fscy83.62\frz-17.06\fry-0.316\frx4.523\fax-0.187\fnFreestyle Script\c&H1A1823&\blur0.7}Cadı Hanım
 Dialogue: 0,0:49:49.21,0:49:49.25,ts,,0,0,0,,{=29=31}{\pos(1004.99,621.07)\fscx103.24\fscy83.58\frz-17.06\fry-0.316\frx4.523\fax-0.187\fnFreestyle Script\c&H1A1823&\blur0.7}Cadı Hanım
 Comment: 0,0:49:49.25,0:49:52.26,ts,,0,0,0,,{kedi mektup}
-Dialogue: 1,0:33:08.54,0:33:08.59,ts,,0,0,0,,{=6}{\pos(960.18,806.81)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(933.46,717.03,964.44,863.63)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.59,0:33:08.63,ts,,0,0,0,,{=6}{\pos(962.64,806.99)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,777,966,835)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.63,0:33:08.67,ts,,0,0,0,,{=6}{\pos(962.02,807.81)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,717.58,965.67,863.91)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.67,0:33:08.71,ts,,0,0,0,,{=6}{\pos(961.67,807.83)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,778,965,838)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.71,0:33:08.75,ts,,0,0,0,,{=6=9}{\pos(961.41,807.82)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,771,965,836)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.75,0:33:08.79,ts,,0,0,0,,{=6=9}{\pos(962.08,807.66)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,776,965,847)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.79,0:33:08.84,ts,,0,0,0,,{=6=9}{\pos(962.2,807.76)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,774,966,849)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.84,0:33:08.88,ts,,0,0,0,,{=6=9}{\pos(961.85,807.88)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,774,965,838)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.88,0:33:08.92,ts,,0,0,0,,{=6=9}{\pos(961.54,807.92)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,773,965,841)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.92,0:33:08.96,ts,,0,0,0,,{=6=9}{\pos(961.51,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,770,965,844)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:08.96,0:33:09.00,ts,,0,0,0,,{=6=9}{\pos(961.5,807.68)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,844)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.00,0:33:09.05,ts,,0,0,0,,{=6=9}{\pos(962,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.42,717.43,966.4,863.48)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.05,0:33:09.09,ts,,0,0,0,,{=6=9}{\pos(961.99,807.65)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.41,717.41,966.39,863.46)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.09,0:33:09.13,ts,,0,0,0,,{=6=9}{\pos(961.79,807.71)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,760,965,841)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.13,0:33:09.30,ts,,0,0,0,,{=6=9}{\pos(961.89,807.83)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,762,965,840)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.30,0:33:09.34,ts,,0,0,0,,{=6=9}{\pos(961.4,807.59)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,765,965,844)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.34,0:33:09.38,ts,,0,0,0,,{=6=9}{\pos(961.47,807.62)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,765,965,839)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.38,0:33:09.42,ts,,0,0,0,,{=6=9}{\pos(961.58,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,835)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.42,0:33:09.46,ts,,0,0,0,,{=6=9}{\pos(962.07,807.41)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.49,717.17,966.47,863.22)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.46,0:33:09.59,ts,,0,0,0,,{=6=9}{\pos(961.83,807.71)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,844)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.59,0:33:09.63,ts,,0,0,0,,{=6=9}{\pos(961.63,807.69)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,767,965,840)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.63,0:33:09.67,ts,,0,0,0,,{=6=9}{\pos(962.38,807.72)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,769,966,837)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.67,0:33:09.71,ts,,0,0,0,,{=6=9}{\pos(962.02,807.73)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,761,965,846)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.71,0:33:09.80,ts,,0,0,0,,{=6=9}{\pos(961.43,807.77)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,771,965,837)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.80,0:33:09.84,ts,,0,0,0,,{=6=9}{\pos(961.62,807.73)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,775,965,840)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.84,0:33:09.88,ts,,0,0,0,,{=6=9}{\pos(961.94,807.64)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,772,965,836)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.88,0:33:09.92,ts,,0,0,0,,{=6=9}{\iclip(936,761,965,838)\pos(961.99,807.61)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.92,0:33:09.96,ts,,0,0,0,,{=6=9}{\pos(962.48,807.63)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,773,966,839)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:09.96,0:33:10.00,ts,,0,0,0,,{=6=9}{\pos(962.45,808)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,776,966,836)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:10.00,0:33:10.05,ts,,0,0,0,,{=6=9}{\pos(962.53,807.61)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,777,966,840)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:10.05,0:33:10.09,ts,,0,0,0,,{=6=9}{\pos(961.93,807.65)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,770,965,838)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:10.09,0:33:10.13,ts,,0,0,0,,{=6=9}{\pos(961.82,807.69)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,776,965,853)}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:10.13,0:33:10.17,ts,,0,0,0,,{=6=9}{\iclip(m 966 837 l 966 766 936 768 936 839)\pos(962.52,807.43)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Keto'ma{\i0}
-Dialogue: 1,0:33:10.17,0:33:10.21,ts,,0,0,0,,{=6=9}{\iclip(m 936 771 l 937 838 964 839 965 772)\pos(962.25,808.26)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Keto'ma{\i0}
+Dialogue: 1,0:33:08.54,0:33:08.59,ts,,0,0,0,,{=6}{\pos(960.18,806.81)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(933.46,717.03,964.44,863.63)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.59,0:33:08.63,ts,,0,0,0,,{=6}{\pos(962.64,806.99)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,777,966,835)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.63,0:33:08.67,ts,,0,0,0,,{=6}{\pos(962.02,807.81)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,717.58,965.67,863.91)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.67,0:33:08.71,ts,,0,0,0,,{=6}{\pos(961.67,807.83)\fscx78.8\fscy119.63\frz-9.383\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,778,965,838)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.71,0:33:08.75,ts,,0,0,0,,{=6=9}{\pos(961.41,807.82)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,771,965,836)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.75,0:33:08.79,ts,,0,0,0,,{=6=9}{\pos(962.08,807.66)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,776,965,847)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.79,0:33:08.84,ts,,0,0,0,,{=6=9}{\pos(962.2,807.76)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,774,966,849)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.84,0:33:08.88,ts,,0,0,0,,{=6=9}{\pos(961.85,807.88)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,774,965,838)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.88,0:33:08.92,ts,,0,0,0,,{=6=9}{\pos(961.54,807.92)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,773,965,841)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.92,0:33:08.96,ts,,0,0,0,,{=6=9}{\pos(961.51,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,770,965,844)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:08.96,0:33:09.00,ts,,0,0,0,,{=6=9}{\pos(961.5,807.68)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,844)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.00,0:33:09.05,ts,,0,0,0,,{=6=9}{\pos(962,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.42,717.43,966.4,863.48)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.05,0:33:09.09,ts,,0,0,0,,{=6=9}{\pos(961.99,807.65)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.41,717.41,966.39,863.46)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.09,0:33:09.13,ts,,0,0,0,,{=6=9}{\pos(961.79,807.71)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,760,965,841)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.13,0:33:09.30,ts,,0,0,0,,{=6=9}{\pos(961.89,807.83)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,762,965,840)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.30,0:33:09.34,ts,,0,0,0,,{=6=9}{\pos(961.4,807.59)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,765,965,844)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.34,0:33:09.38,ts,,0,0,0,,{=6=9}{\pos(961.47,807.62)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,765,965,839)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.38,0:33:09.42,ts,,0,0,0,,{=6=9}{\pos(961.58,807.67)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,835)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.42,0:33:09.46,ts,,0,0,0,,{=6=9}{\pos(962.07,807.41)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935.49,717.17,966.47,863.22)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.46,0:33:09.59,ts,,0,0,0,,{=6=9}{\pos(961.83,807.71)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,763,965,844)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.59,0:33:09.63,ts,,0,0,0,,{=6=9}{\pos(961.63,807.69)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,767,965,840)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.63,0:33:09.67,ts,,0,0,0,,{=6=9}{\pos(962.38,807.72)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,769,966,837)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.67,0:33:09.71,ts,,0,0,0,,{=6=9}{\pos(962.02,807.73)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,761,965,846)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.71,0:33:09.80,ts,,0,0,0,,{=6=9}{\pos(961.43,807.77)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,771,965,837)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.80,0:33:09.84,ts,,0,0,0,,{=6=9}{\pos(961.62,807.73)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(934,775,965,840)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.84,0:33:09.88,ts,,0,0,0,,{=6=9}{\pos(961.94,807.64)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,772,965,836)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.88,0:33:09.92,ts,,0,0,0,,{=6=9}{\iclip(936,761,965,838)\pos(961.99,807.61)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.92,0:33:09.96,ts,,0,0,0,,{=6=9}{\pos(962.48,807.63)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,773,966,839)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:09.96,0:33:10.00,ts,,0,0,0,,{=6=9}{\pos(962.45,808)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,776,966,836)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:10.00,0:33:10.05,ts,,0,0,0,,{=6=9}{\pos(962.53,807.61)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(936,777,966,840)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:10.05,0:33:10.09,ts,,0,0,0,,{=6=9}{\pos(961.93,807.65)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,770,965,838)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:10.09,0:33:10.13,ts,,0,0,0,,{=6=9}{\pos(961.82,807.69)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6\iclip(935,776,965,853)}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:10.13,0:33:10.17,ts,,0,0,0,,{=6=9}{\iclip(m 966 837 l 966 766 936 768 936 839)\pos(962.52,807.43)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Ketom'a{\i0}
+Dialogue: 1,0:33:10.17,0:33:10.21,ts,,0,0,0,,{=6=9}{\iclip(m 936 771 l 937 838 964 839 965 772)\pos(962.25,808.26)\fscx78.8\fscy119.63\frz-9.38\fry-2.398\frx1.217\fax-0.183\fnFreestyle Script\i1\c&H272834&\3c&H7B8792&\blur0.6}Sevgili Ketom'a{\i0}
