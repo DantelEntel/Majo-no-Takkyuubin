@@ -9,3 +9,5 @@ Yazı Dizimi: Vuats
 Teknik Kontrol: Fei
 
 Redaktör: Kenanke
+
+Kaynak: [JPN MGVC BD](https://nyaa.si/view/1582082 "JPN MGVC BD")
