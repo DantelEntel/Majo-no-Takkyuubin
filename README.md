@@ -1,13 +1,11 @@
-Çeviri: NFLX
+## Emeği Geçenler
 
-Editör: Vuats & Fei
-
-Şarkı Çevirisi: Vuats
-
-Yazı Dizimi: Vuats
-
-Teknik Kontrol: Fei
-
-Redaktör: Kenanke
-
-Kaynak: [JPN MGVC BD](https://nyaa.si/view/1582082 "JPN MGVC BD")
+| Roller         | Ekip             |
+|----------------|------------------|
+| Çeviri         | NFLX             |
+| Çeviri Editörü | Vuats, Fei       |
+| Şarkı Çevirisi | Vuats            |
+| Yazı Dizimi    | Vuats            |
+| Redaktör       | Kenanke          |
+| Teknik Kontrol | Fei              |
+| Kaynak         | [JPN MGVC BD](https://nyaa.si/view/1582082 "F00D")             |
